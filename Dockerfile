@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 MAINTAINER Jahroots "Jahroots@gmail.com"
 
 RUN apt-get update

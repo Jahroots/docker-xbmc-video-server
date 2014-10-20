@@ -1,4 +1,4 @@
-docker-xbmc-video-server
+Docker-XBMC-Video-Server
 ========================
 
-Sets up a container with apache2 listening on 80 and xbmc-video-server => https://github.com/Jalle19/xbmc-video-server
+Sets up a container with Apache2 listening on 80 and [XBMC-Video-Server](https://github.com/Jalle19/xbmc-video-server)
